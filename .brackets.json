@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "packery/js/item.js"
+    ]
+}

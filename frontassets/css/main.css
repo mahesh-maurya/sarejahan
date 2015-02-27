@@ -834,8 +834,7 @@ border: 4px solid rgb(213, 213, 213);
 }
 .item { 
     display: inline-block;
-    background: grey;
-    border: 2px solid #A7A7A7;
+    border: 2px solid #868686;
     padding: 5px 47px;
     margin: 0px -4px;
  
@@ -846,14 +845,15 @@ color:#fff;
     text-align: center;
     line-height: 27px;
     font-size: 17px;
+    background: url(../image/brick.jpg) no-repeat  center center;
 }
 
 .wall{
- background: grey;
    
  background-size: cover;
     
  height: auto;
  border: 2px solid #A7A7A7;
  width: auto !important;
+ background: url(../image/brick.jpg) center;
 }
